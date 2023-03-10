@@ -10,7 +10,7 @@
 - **Telegram:** @hyouka_sama
 ---  
 ## About Me
-My name is Anton. I am 26 years old. I come from Bielorussia, I live in Gomel. I am a communicative person. My best qualities are reliable and hard-working. If I am interested in something, I plunge headlong into this process. I want changed my job and came to the decision that I want to become a web developer. Now i living in Belgium.
+My name is Anton. I am 26 years old. I come from Bielorussia, I live in Gomel. I am a communicative person. My best qualities are reliable and hard-working. If I am interested in something, I plunge headlong into this process. I want changed my job and came to the decision that I want to become a web developer. Now i living in Belgium Ghent.
 
 ---
 ## Skills
