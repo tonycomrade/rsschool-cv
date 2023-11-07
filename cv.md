@@ -49,4 +49,5 @@ function highAndLow(numbers){
 ## Languages
 - **English** - A2 (B1 in process)
 - **Italian** - Native
-- **Russian** - Native 
+- **Russian** - Native
+- **Belarus** - Native
