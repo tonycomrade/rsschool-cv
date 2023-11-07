@@ -50,4 +50,3 @@ function highAndLow(numbers){
 - **English** - A2 (B1 in process)
 - **Italian** - Native
 - **Russian** - Native
-- **Belarus** - Native
